@@ -1,2 +1,3 @@
 # Nigeria-Housing-Market-Analysis
 An exploratory data analysis and visualization of Nigerian housing market listings.
+In this project, I uncover key insights and trends within the Nigerian housing market by conducting thorough data exploration, analysis, and visualization on a dataset of property listings I got from Kaggle. Through this analysis, I examine factors such as property types, location-based pricing trends, and market distribution to provide a comprehensive view of housing characteristics across Nigeria. I also developed an interactive visualizations that help bring out meaningful patterns, enabling stakeholders to make data-driven decisions and better understand Nigeria’s dynamic real estate landscape.

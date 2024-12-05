@@ -1,5 +1,7 @@
 # Nigeria Housing Market Analysis
 
+### Alternative link to the code repository:
+[Nigeria Housing Market Analysis](https://nbviewer.org/github/abdulmumeen-abdullahi/Nigeria-Housing-Market-Analysis/blob/main/Nigeria%20House%20Listings.ipynb)
 ## Overview: <br/>
 This project performs an in-depth analysis and visualization of Nigeria's real estate market, focusing on various property types, price distribution, and regional variations. The dataset comprises housing price data across different Nigerian states and towns, with additional details about property types, such as Detached Duplex, Terraced Duplexes, Semi-Detached Duplex, and Detached Bungalows. This project aims to understand the distribution of real estate prices, identify trends, and provide valuable insights into the pricing patterns across various regions and property types.
 
